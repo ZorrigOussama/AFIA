@@ -14,7 +14,7 @@ The Ocean Information Assistant is an interactive application that provides info
 
 ## Project Structure
 ```
-ocean_assistant/
+AFIA/
 │
 ├── backend/
 │   ├── data/           # Directory containing ocean-related documents
