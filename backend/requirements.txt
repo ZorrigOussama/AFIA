@@ -1,0 +1,9 @@
+langdetect
+flask
+llama-index-embeddings-openai
+openai
+llama-index-readers-file
+llama-index-llms-openai
+chromadb
+llama-index-vector-stores-chroma
+install llama-index-readers-web
