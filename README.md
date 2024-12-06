@@ -72,12 +72,9 @@ OPENAI_API_KEY=your_api_key_here
 ```
 
 ## Data Setup
-1. Create a `data` directory in the backend folder
-2. Add your ocean-related documents (PDF, TXT, etc.) to this directory
-```bash
-mkdir backend/data
-# Add your documents to backend/data/
-```
+1. A data directory has been created in the backend folder to store sample data.
+2. You can add your ocean-related documents (PDF, TXT, etc.) to this directory.
+
 
 ## Running the Application
 
@@ -173,23 +170,4 @@ Solution: Ensure your image is less than 10MB and in a supported format (jpg, pn
 - requests
 - Pillow
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- OpenAI for providing the GPT-4 and Vision APIs
-- The Streamlit team for their excellent framework
-- Contributors to the various open-source packages used in this project
-
-## Support
-For support, please open an issue in the GitHub repository or contact [your-email@example.com]
-
-## Version History
-- v1.0.0 (2023-12-XX) - Initial release
-  - Basic text and image query functionality
-  - Bilingual support
-  - Web interface
 ```
