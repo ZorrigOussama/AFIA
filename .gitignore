@@ -9,5 +9,4 @@ venv/
 *.swp
 *.swo
 .DS_Store
-backend/data/*
 !backend/data/.gitkeep
